@@ -24,8 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I recently graduated from the University of California San Diego(UCSD),where I studied Cognitive Science with a specialization in Machine Learning & Neural Computation and Data Science. My academic and research interests center on computational neuroscience and neuroinformatics. During my undergraduate training, I worked on intracranial ECoG and sEEG analysis, ripple detection, and multimodal physiological signal processing, where I developed reproducible data pipelines for large-scale neural datasets. I am passionate about integrating computational methods and data engineering approaches to better understand brain dynamics in both health and disease. I am particularly motivated by research with translational potential and hope to pursue graduate studies in a computational field in the future. When I'm not working, you will catch me in the gym, tennis courts and local running trails.
