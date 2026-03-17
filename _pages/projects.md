@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Work in progress!
+description: A Collection of Personal Projects! Work in progress!
 nav: true
 nav_order: 3
 display_categories: [work, fun]
